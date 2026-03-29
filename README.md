@@ -1,11 +1,1 @@
-# elias_code
-
-elias_code - Elias gamma and delta universal integer codes.
-
-## Usage
-
-```bash
-python3 elias_code.py --test
-```
-
-Zero dependencies. Python 3.8+.
+# elias-code\n\nElias gamma and delta coding for positive integers\n\nZero-dependency, single-file Python 3.8+ CLI tool.\n\n## Usage\n\n```bash\npython elias_code.py\n```\n
